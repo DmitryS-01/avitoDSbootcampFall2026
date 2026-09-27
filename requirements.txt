@@ -1,0 +1,14 @@
+numpy>=2.0,<3
+pandas>=2.2,<4
+pyarrow>=18,<26
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<0.14
+nbformat>=5.10,<6
+nbclient>=0.10,<1
+ipykernel>=6.29,<8
+catboost>=1.2.7,<2
+sentence-transformers>=5,<7
+torch>=2.5,<3
+huggingface-hub>=0.30,<2

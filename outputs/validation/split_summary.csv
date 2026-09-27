@@ -1,0 +1,7 @@
+split,regime,queries
+dev,cold,1000
+dev,warm,1000
+rank_train,cold,2200
+rank_train,warm,2200
+test,cold,1000
+test,warm,1000

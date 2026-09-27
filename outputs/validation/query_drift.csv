@@ -1,0 +1,7 @@
+column,train_unit,total_variation,benchmark_unseen_share
+search_category,positive_rows,0.09047001810045488,0.0
+search_category,unique_contexts,0.09044517913360733,0.0
+search_location_id,positive_rows,0.25688661310325533,0.0
+search_location_id,unique_contexts,0.3022311187921193,0.0
+search_is_delivery_search,positive_rows,2.4112218263808105e-05,0.0
+search_is_delivery_search,unique_contexts,3.105230619834923e-05,0.0

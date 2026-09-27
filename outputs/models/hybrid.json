@@ -1,0 +1,22 @@
+{
+  "weights": {
+    "word": 1.0,
+    "word_local": 4.0,
+    "char": 1.0,
+    "char_local": 4.0,
+    "bm25": 1.0,
+    "bm25_local": 4.0,
+    "bm25_title": 1.0,
+    "bm25_title_local": 4.0,
+    "history": 1.5,
+    "history_local": 6.0,
+    "history_context": 1.5,
+    "similar_history": 1.5,
+    "similar_history_local": 6.0,
+    "naive_bayes_local": 0.25,
+    "popularity_local": 0.15
+  },
+  "constant": 30,
+  "selected_on": "dev",
+  "warm_share": 0.37479608482871124
+}

@@ -1,0 +1,10 @@
+{
+  "catalog_items": 515895,
+  "base_pairs": 322191,
+  "all_unique_pairs": 467019,
+  "evaluation_queries": 8400,
+  "context_item_overlap": 0,
+  "cold_text_overlap": 0,
+  "test_used_for_selection": false,
+  "seed": 143
+}

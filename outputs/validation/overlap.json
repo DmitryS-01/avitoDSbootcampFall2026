@@ -1,0 +1,15 @@
+{
+  "train_rows": 497673,
+  "train_unique_items": 344825,
+  "benchmark_unique_items": 189212,
+  "full_duplicate_rows": 30619,
+  "duplicate_context_item": 30654,
+  "train_texts_normalized": 73706,
+  "train_contexts": 354241,
+  "benchmark_text_seen_share": 0.37479608482871124,
+  "benchmark_context_seen_share": 0.04445350734094616,
+  "benchmark_items_seen_share": 0.09588186795763483,
+  "train_rows_in_benchmark_share": 0.06632869374066908,
+  "positive_location_mismatch_share": 0.16898043494423046,
+  "positive_category_mismatch_share": 0.00010649563066511544
+}

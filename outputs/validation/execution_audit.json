@@ -1,0 +1,44 @@
+[
+  {
+    "notebook": "00_EDA.ipynb",
+    "code_cells": 10,
+    "executed_cells": 10,
+    "errors": 0
+  },
+  {
+    "notebook": "01_feature_engineering.ipynb",
+    "code_cells": 4,
+    "executed_cells": 4,
+    "errors": 0
+  },
+  {
+    "notebook": "02_baselines.ipynb",
+    "code_cells": 5,
+    "executed_cells": 5,
+    "errors": 0
+  },
+  {
+    "notebook": "03_hybrid_retrieval.ipynb",
+    "code_cells": 4,
+    "executed_cells": 4,
+    "errors": 0
+  },
+  {
+    "notebook": "04_dense_retrieval.ipynb",
+    "code_cells": 6,
+    "executed_cells": 6,
+    "errors": 0
+  },
+  {
+    "notebook": "05_supervised_fusion.ipynb",
+    "code_cells": 6,
+    "executed_cells": 6,
+    "errors": 0
+  },
+  {
+    "notebook": "06_submission.ipynb",
+    "code_cells": 5,
+    "executed_cells": 5,
+    "errors": 0
+  }
+]

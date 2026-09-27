@@ -1,0 +1,14 @@
+{
+  "train": {
+    "rows": 497673,
+    "sha256": "e150ab7a5c98769f643b95ee3a02dc0f664b647facd69a7d280ec6d48ca554a7"
+  },
+  "benchmark_queries": {
+    "rows": 2452,
+    "sha256": "e49de4fb76f03979a4af96034817767d39ae5de9f94e254fed028243188dda06"
+  },
+  "benchmark_items": {
+    "rows": 189212,
+    "sha256": "193b3a3961464620cbf8d8797152b7f90cae1826ca749fb7817a210984a09899"
+  }
+}
