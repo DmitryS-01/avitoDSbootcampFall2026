@@ -3,5 +3,5 @@
   "max_seq_length": 128,
   "dimension": 384,
   "device": "mps",
-  "item_encoding_seconds_this_run": 1150.941544124973
+  "item_encoding_seconds_this_run": 8.680821165966336
 }

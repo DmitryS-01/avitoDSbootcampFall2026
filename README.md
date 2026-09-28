@@ -51,12 +51,14 @@ outputs/
 E5 использует MPS/CUDA при наличии; CPU тоже поддерживается. Остальные модели обучаю локально.
 
 ```bash
-python3.12 -m venv .venv
-source .venv/bin/activate
+python3.12 -m venv .venv312
+source .venv312/bin/activate
 pip install -r requirements.txt
 export AVITO_DATA_DIR="$PWD/dataset"
 jupyter lab
 ```
+
+Новое окружение .venv312 создаю отдельно от существующего .venv. В Jupyter выбираю его Python 3 kernel.
 
 В dataset нужны train.parquet, benchmark_queries.parquet, benchmark_items.parquet.
 Полный архив содержит данные и веса E5. Если весов нет, сначала выполняю раздел подготовки
@@ -70,7 +72,7 @@ jupyter lab
 Можно выполнить ноутбук из терминала:
 
 ```bash
-jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 notebooks/00_EDA.ipynb
+jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 --ExecutePreprocessor.kernel_name=python3 notebooks/00_EDA.ipynb
 ```
 
 Разные префиксы исследовательских переменных уменьшают риск конфликтов имен. Общие функции

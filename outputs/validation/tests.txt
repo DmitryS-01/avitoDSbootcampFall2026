@@ -1,13 +1,18 @@
-test_bm25_matches_hand_formula (test_contracts.Contracts.test_bm25_matches_hand_formula) ... ok
-test_csv_contract_and_leading_zero (test_contracts.Contracts.test_csv_contract_and_leading_zero) ... ok
-test_deterministic_ties_and_local_top (test_contracts.Contracts.test_deterministic_ties_and_local_top) ... ok
-test_inference_absent_channel_has_zero_rank (test_contracts.Contracts.test_inference_absent_channel_has_zero_rank) ... ok
-test_macro_recall_counts_missing_queries (test_contracts.Contracts.test_macro_recall_counts_missing_queries) ... ok
-test_normalization_and_context (test_contracts.Contracts.test_normalization_and_context) ... ok
-test_price_sentinel_is_not_free (test_contracts.Contracts.test_price_sentinel_is_not_free) ... ok
-test_rrf_deduplicates_items (test_contracts.Contracts.test_rrf_deduplicates_items) ... ok
+test_bm25_matches_hand_formula (__main__.Contracts.test_bm25_matches_hand_formula) ... ok
+test_csv_contract_and_leading_zero (__main__.Contracts.test_csv_contract_and_leading_zero) ... ok
+test_deterministic_ties_and_local_top (__main__.Contracts.test_deterministic_ties_and_local_top) ... ok
+test_inference_absent_channel_has_zero_rank (__main__.Contracts.test_inference_absent_channel_has_zero_rank) ... ok
+test_macro_recall_counts_missing_queries (__main__.Contracts.test_macro_recall_counts_missing_queries) ... ok
+test_normalization_and_context (__main__.Contracts.test_normalization_and_context) ... ok
+test_price_sentinel_is_not_free (__main__.Contracts.test_price_sentinel_is_not_free) ... ok
+test_rrf_deduplicates_items (__main__.Contracts.test_rrf_deduplicates_items) ... ok
 
 ----------------------------------------------------------------------
-Ran 8 tests in 0.018s
+Ran 8 tests in 0.016s
 
 OK
+Split, truth and candidate artifact invariants: OK
+answer.csv {'rows': 2452, 'min_candidates': 50, 'max_candidates': 50, 'valid': True}
+answer_blend005.csv {'rows': 2452, 'min_candidates': 50, 'max_candidates': 50, 'valid': True}
+answer_extended.csv {'rows': 2452, 'min_candidates': 50, 'max_candidates': 50, 'valid': True}
+Fixed retrieval schema: OK

@@ -1,0 +1,10 @@
+{
+  "extended_alpha": 0.75,
+  "chosen_on": "dev_calibration",
+  "comparison_delta": -0.004106647634584015,
+  "recommended": false,
+  "reason": "Выбранный вес ухудшил comparison; stacking усложняет решение без убедительного выигрыша",
+  "seed": 143,
+  "baseline_exactly_reproduced": true,
+  "official_score": null
+}

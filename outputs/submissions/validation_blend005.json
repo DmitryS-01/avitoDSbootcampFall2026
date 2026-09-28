@@ -1,0 +1,11 @@
+{
+  "rows": 2452,
+  "min_candidates": 50,
+  "max_candidates": 50,
+  "valid": true,
+  "baseline_exactly_reproduced": true,
+  "queries_with_changed_set": 1357,
+  "replaced_items": 1493,
+  "sha256": "b35501639ce7f471fa5b35119437c015b49d52d99e3ae8b465466a06b8754bea",
+  "official_score": null
+}

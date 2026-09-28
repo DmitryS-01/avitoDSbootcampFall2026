@@ -1,44 +1,100 @@
 [
   {
     "notebook": "00_EDA.ipynb",
-    "code_cells": 10,
-    "executed_cells": 10,
-    "errors": 0
+    "code_cells": 15,
+    "executed_cells": 15,
+    "errors": 0,
+    "code_sha256": "7f2866aa90d8c9d87402f8754c9c8f2d77d91c4c99cc2d155c9e9f2b6d41617c"
   },
   {
     "notebook": "01_feature_engineering.ipynb",
-    "code_cells": 4,
-    "executed_cells": 4,
-    "errors": 0
+    "code_cells": 8,
+    "executed_cells": 8,
+    "errors": 0,
+    "code_sha256": "998fd0ea1fb42a10c1d9196e6efee1b64be9cb51605205fa9c3e8a0b9746e06c"
   },
   {
     "notebook": "02_baselines.ipynb",
-    "code_cells": 5,
-    "executed_cells": 5,
-    "errors": 0
+    "code_cells": 7,
+    "executed_cells": 7,
+    "errors": 0,
+    "code_sha256": "d9a1abbfbee9fee5b71d2ab7213c7cd59c36fa51076cc559d75ae6204c2cf3ea"
   },
   {
     "notebook": "03_hybrid_retrieval.ipynb",
-    "code_cells": 4,
-    "executed_cells": 4,
-    "errors": 0
+    "code_cells": 6,
+    "executed_cells": 6,
+    "errors": 0,
+    "code_sha256": "ccdf33b8ed217c88c66faa8ec094375849498dd8e790cd664df0e3cf78664684"
   },
   {
     "notebook": "04_dense_retrieval.ipynb",
-    "code_cells": 6,
-    "executed_cells": 6,
-    "errors": 0
+    "code_cells": 10,
+    "executed_cells": 10,
+    "errors": 0,
+    "code_sha256": "40dddbaa9ec97196aa40d74ff889bf6101cadbdab69409d1c674fdf98c3d4dfa"
   },
   {
     "notebook": "05_supervised_fusion.ipynb",
-    "code_cells": 6,
-    "executed_cells": 6,
-    "errors": 0
+    "code_cells": 12,
+    "executed_cells": 12,
+    "errors": 0,
+    "code_sha256": "ab512a14e006c481d38084c87c9b81cd6240d3aa544680f32c75e5fd9b502617"
   },
   {
     "notebook": "06_submission.ipynb",
+    "code_cells": 9,
+    "executed_cells": 9,
+    "errors": 0,
+    "code_sha256": "e8407be74439c39aff1a64e66ef88eb824d4fc9d4ee060db0edd2885a36e3533"
+  },
+  {
+    "notebook": "07_additional_experiments.ipynb",
+    "code_cells": 7,
+    "executed_cells": 7,
+    "errors": 0,
+    "code_sha256": "aaf9a29a22146e58c9f9add9eb75b35b4371b02dca9839170d727275c0fd5c5d"
+  },
+  {
+    "notebook": "08_extended_features.ipynb",
     "code_cells": 5,
     "executed_cells": 5,
-    "errors": 0
+    "errors": 0,
+    "code_sha256": "9458b24e3fe567baf4c7ed7bded4f1d60c5ffe8a6e81316ae1b0f88d96638e4f"
+  },
+  {
+    "notebook": "09_model_families.ipynb",
+    "code_cells": 11,
+    "executed_cells": 11,
+    "errors": 0,
+    "code_sha256": "1ca9f1cf9970f715d72857d533ca611243161adde7059ffa0207b80c0abec3ef"
+  },
+  {
+    "notebook": "10_ensembles.ipynb",
+    "code_cells": 11,
+    "executed_cells": 11,
+    "errors": 0,
+    "code_sha256": "973d9c90398ba95eef6ff25a225db85e94d925a165612bca20dffbe60c2fbd5f"
+  },
+  {
+    "notebook": "11_checks.ipynb",
+    "code_cells": 6,
+    "executed_cells": 6,
+    "errors": 0,
+    "code_sha256": "8918abb586ff1f042abb11fd171aca584b973e2a3c161d044091568abeebb6ff"
+  },
+  {
+    "notebook": "12_artifacts.ipynb",
+    "code_cells": 4,
+    "executed_cells": 0,
+    "errors": 0,
+    "code_sha256": "bd5265b7690b844245e6997868681daed0633825fb9e69d7a1e77af5d682d9dc"
+  },
+  {
+    "notebook": "common.ipynb",
+    "code_cells": 31,
+    "executed_cells": 0,
+    "errors": 0,
+    "code_sha256": "a9a8d20a5bda4ce85692c15fd75d92bbdee54a8996ade0a710f03aee46fe0a8a"
   }
 ]
