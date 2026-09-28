@@ -12,63 +12,72 @@
       "code_cells": 16,
       "executed_code_cells": 16,
       "errors": 0,
-      "source_sha256": "6e88b3bd029abc48d64ca4369a9ce1386bdacaafe0306972a249c6aea6f097c4"
+      "source_sha256": "6e88b3bd029abc48d64ca4369a9ce1386bdacaafe0306972a249c6aea6f097c4",
+      "code_sha256": "20df9a8200dc711103ad18d78a7eadfb9e2207f41ae6a5cd3be0a331e9d849b7"
     },
     {
       "notebook": "02_feature_engineering.ipynb",
       "code_cells": 37,
       "executed_code_cells": 37,
       "errors": 0,
-      "source_sha256": "2eef7957504a09b321214bb1c042823ad5182e77c59b611cf52f16dd0cb58bd7"
+      "source_sha256": "2eef7957504a09b321214bb1c042823ad5182e77c59b611cf52f16dd0cb58bd7",
+      "code_sha256": "4b056d08a58f5f1327a80a9228c7977bb675dd696cda34d0403d4a678762e0f9"
     },
     {
       "notebook": "03_baselines.ipynb",
       "code_cells": 18,
       "executed_code_cells": 18,
       "errors": 0,
-      "source_sha256": "5e438f760739943d3823035f09431ab4b5f56c3213e589b9f2462ed32a399d16"
+      "source_sha256": "5e438f760739943d3823035f09431ab4b5f56c3213e589b9f2462ed32a399d16",
+      "code_sha256": "9335f071cd2298c970386fa0fadefe49c4f97cb4d3b3b11d6b4c6e592484e6e9"
     },
     {
       "notebook": "04_dense_retrieval.ipynb",
       "code_cells": 11,
       "executed_code_cells": 11,
       "errors": 0,
-      "source_sha256": "a9e8ed5c88c75c888b634276db07ffaa0bd802f49a4551afcf5df92884592b23"
+      "source_sha256": "a9e8ed5c88c75c888b634276db07ffaa0bd802f49a4551afcf5df92884592b23",
+      "code_sha256": "a62755dc8488cfd9ff1a42ae0c72b342f01571c6d2b1b774197862ff8865ce4c"
     },
     {
       "notebook": "05_catboost.ipynb",
       "code_cells": 32,
       "executed_code_cells": 32,
       "errors": 0,
-      "source_sha256": "f25e60660c2533024fee7f51102d7fbfec75a8f6f97fd270bca02983c76dfa87"
+      "source_sha256": "b97b55e2b0fbf803960258d1855957c8d67d0af1b76f8ba4d03dd837c7279a97",
+      "code_sha256": "49b28d6184f1c61bb964752af35b852244fa201e24ee11698eb4cb7e88b6d6da"
     },
     {
       "notebook": "06_linear.ipynb",
       "code_cells": 5,
       "executed_code_cells": 5,
       "errors": 0,
-      "source_sha256": "970d2be213cf4a455f8666146457d40a7512ff8f753372c4cad521a6ecb5cdd8"
+      "source_sha256": "970d2be213cf4a455f8666146457d40a7512ff8f753372c4cad521a6ecb5cdd8",
+      "code_sha256": "90022fa97832f2921172c481540f86cfc949bfe04b0a9a95b16057cc47dd0ecc"
     },
     {
       "notebook": "07_ranker.ipynb",
       "code_cells": 5,
       "executed_code_cells": 5,
       "errors": 0,
-      "source_sha256": "da9efb799efe2f00d8e72284ee48d555d44bb9dedfd1a7f7d19d8444659e2db8"
+      "source_sha256": "da9efb799efe2f00d8e72284ee48d555d44bb9dedfd1a7f7d19d8444659e2db8",
+      "code_sha256": "319a85103825c48cb36b61fa8a9f8390b245fa6c32e5906b801862645cda44fb"
     },
     {
       "notebook": "08_mlp.ipynb",
       "code_cells": 7,
       "executed_code_cells": 7,
       "errors": 0,
-      "source_sha256": "b6f8ff6f7e3e151dcffb70f08762871257653aeb44467f0abbc8f601a0819593"
+      "source_sha256": "b6f8ff6f7e3e151dcffb70f08762871257653aeb44467f0abbc8f601a0819593",
+      "code_sha256": "811109ccd3b3d24710a9af01218a0f5d8783b20c3b2a4baa8377d885fef6b4d9"
     },
     {
       "notebook": "09_ensemble.ipynb",
       "code_cells": 10,
       "executed_code_cells": 10,
       "errors": 0,
-      "source_sha256": "f125d3a60da0e987d295afe254f3b9a36fb836678d02b8e67a76f73aef21ac80"
+      "source_sha256": "a3478c2d6e2bf8e1405a0b15cac7034fe19afb92b912368c7c0a29307db5b694",
+      "code_sha256": "62bb5799bc64c3ccc65ddee70de6a3a07935861e54d7aac4bb0a36c87598846f"
     }
   ],
   "figures": [
@@ -151,5 +160,17 @@
     "max_candidates": 50,
     "valid": true
   },
-  "answer_sha256": "0d7edb96e532958857e828e557ef822ac9d71e047086eba21e1aa0326eb666e2"
+  "answer_sha256": "0d7edb96e532958857e828e557ef822ac9d71e047086eba21e1aa0326eb666e2",
+  "final_review": {
+    "recorded_at_utc": "2026-09-28T16:15:15.077041+00:00",
+    "code_unchanged_since_executed_run": true,
+    "answer_unchanged_since_executed_run": true,
+    "submission_validation": {
+      "rows": 2452,
+      "min_candidates": 50,
+      "max_candidates": 50,
+      "valid": true
+    },
+    "reported_recall_at_50": 0.822587
+  }
 }

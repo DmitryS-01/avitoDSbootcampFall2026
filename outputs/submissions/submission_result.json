@@ -1,0 +1,18 @@
+{
+  "file": "outputs/submissions/answer.csv",
+  "sha256": "0d7edb96e532958857e828e557ef822ac9d71e047086eba21e1aa0326eb666e2",
+  "recall_at_50": 0.822587,
+  "score_source": "reported_by_user",
+  "recorded_at_utc": "2026-09-28T16:15:15.077041+00:00",
+  "solution_commit": "5ab98ee",
+  "model": "CatBoost Logloss, 101 features, 300 trees",
+  "seed": 143,
+  "previous_reported_score": 0.821574,
+  "absolute_improvement": 0.001013,
+  "format_validation": {
+    "rows": 2452,
+    "min_candidates": 50,
+    "max_candidates": 50,
+    "valid": true
+  }
+}
