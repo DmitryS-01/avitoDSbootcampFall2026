@@ -9,15 +9,9 @@ __pycache__/
 .DS_Store
 *.log
 
-# Исходные данные и восстанавливаемые артефакты
-dataset/
+# Восстанавливаемые кеши и служебные файлы
 dataset_*.txt
 *.zip
 *.manifest.json
 outputs/cache/
-outputs/models/multilingual-e5-small/
-outputs/models/*.cbm
-outputs/models/*.pt
-outputs/models/*.joblib
-outputs/models/title_idf.json
-outputs/validation/*.parquet
+outputs/models/multilingual-e5-small/.cache/

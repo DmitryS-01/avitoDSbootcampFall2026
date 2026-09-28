@@ -1,0 +1,9 @@
+dataset/*.parquet filter=lfs diff=lfs merge=lfs -text
+outputs/models/*.cbm filter=lfs diff=lfs merge=lfs -text
+outputs/models/*.pt filter=lfs diff=lfs merge=lfs -text
+outputs/models/*.joblib filter=lfs diff=lfs merge=lfs -text
+outputs/models/title_idf.json filter=lfs diff=lfs merge=lfs -text
+outputs/models/multilingual-e5-small/*.safetensors filter=lfs diff=lfs merge=lfs -text
+outputs/models/multilingual-e5-small/tokenizer.json filter=lfs diff=lfs merge=lfs -text
+outputs/models/multilingual-e5-small/*.model filter=lfs diff=lfs merge=lfs -text
+outputs/validation/*.parquet filter=lfs diff=lfs merge=lfs -text
