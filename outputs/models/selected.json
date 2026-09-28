@@ -22,5 +22,6 @@
     "popularity_local": 0.15,
     "adapted": 2.0,
     "adapted_local": 4.0
-  }
+  },
+  "test_reused_from_earlier_experiments": true
 }

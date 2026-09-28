@@ -1,7 +1,7 @@
 {
-  "signature": "70c2a5082aa9aece7243e71a191e3f756fb5f28315e403bff55c82777091e742",
+  "signature": "5b9b045356008ac4b3ae48df1a0b7923bf7bb66ea21a616890ac8e4e773f302e",
   "max_seq_length": 128,
   "dimension": 384,
   "device": "mps",
-  "item_encoding_seconds_this_run": 8.680821165966336
+  "item_encoding_seconds_this_run": 382.66253004200007
 }

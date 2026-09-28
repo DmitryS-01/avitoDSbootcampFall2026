@@ -1,0 +1,13 @@
+model,regime,queries,recall50,slice
+basic_300,cold,1000,0.8075416666666666,all
+basic_300,warm,1000,0.8109795670995671,all
+extended_300,cold,1000,0.8036666666666666,all
+extended_300,warm,1000,0.8080362337662338,all
+basic_300,cold,654,0.8147298674821611,all_items_without_history
+basic_300,warm,632,0.8231803797468354,all_items_without_history
+extended_300,cold,654,0.8177879714576963,all_items_without_history
+extended_300,warm,632,0.8223892405063291,all_items_without_history
+basic_300,cold,1000,0.8075416666666666,all_pairs_new_for_text
+basic_300,warm,949,0.8109684835712233,all_pairs_new_for_text
+extended_300,cold,1000,0.8036666666666666,all_pairs_new_for_text
+extended_300,warm,949,0.8069818309544338,all_pairs_new_for_text

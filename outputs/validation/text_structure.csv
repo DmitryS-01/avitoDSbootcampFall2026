@@ -1,0 +1,7 @@
+,value
+catalog_items,515895.0
+unique_titles,273561.0
+items_with_nonunique_title_share,0.5473807654658409
+train_queries_with_numbers,0.015899998593453934
+benchmark_queries_with_numbers,0.03833605220228385
+benchmark_nonempty_filters,0.3694942903752039

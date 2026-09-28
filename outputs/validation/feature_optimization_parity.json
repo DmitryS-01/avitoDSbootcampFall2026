@@ -1,8 +1,0 @@
-{
-  "queries": 100,
-  "rows": 39503,
-  "columns": 81,
-  "exactly_equal": true,
-  "old_seconds": 14.178658499964513,
-  "new_seconds": 2.181326708989218
-}
